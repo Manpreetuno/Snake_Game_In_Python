@@ -147,7 +147,7 @@ while True:
         time.sleep(1)
         screen.bye()
         # Change Address to your Snake_Game.py Address
-        os.system('python "E://Users//Rebel Singh//Desktop//Python_projects//Python_Teaching//5_Sujan_Coding_Classes//Class25_Snake_Game//6_Snake_Game6.py')
+        os.system('python "E://Users//Rebel Singh//Desktop//Python_projects//Python_Teaching//5_Sujan_Coding_Classes//Class25_Snake_Game//Snake_Game.py')
         
         head.goto(0, 0)
         head.direction = "Stop"        
